@@ -1,0 +1,41 @@
+.header{
+    color:white;
+    background-color: rgba(0, 5, 23, 0.897);
+    position: relative;
+    top: -22px;
+    width: 1487px;
+    left: -7.7px;
+    height: 80px;
+    align-items: center;
+}
+.footer{
+    background-color: rgba(0, 5, 23, 0.897);
+    color: white;
+    position: relative;
+    top: 100px;
+    height: 120px;
+    width: 1486px;
+    left: -7.7px;
+}
+div{
+    border: 1px solid black;
+    margin: 30px;
+    width: 210px;
+    background-color: rgba(0, 0, 0, 0.037);
+    border-radius: 2%;
+    padding: 20px;
+}
+.about{
+    background-color: rgb(217, 217, 222);
+    position: relative;
+    top: -42px;
+    width: 1487px;
+    left: -7.7px;
+
+}
+
+
+ img{
+    border-radius: 5%;
+ }
+
